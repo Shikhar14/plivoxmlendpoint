@@ -1,5 +1,5 @@
 <Response>
     <Dial record="true" recordFileFormat="mp3" recordUrl="http://34.93.131.176:8080/plivo/recordings">
-        <Number>sip:88211694985830735@zentrunk.plivo.com</Number>
+        <Number>sip:88211694985830735@zt.plivo.com</Number>
     </Dial>
 </Response>
